@@ -10,13 +10,13 @@
 | structs                | §5.1          | yes
 | enums                  | §6            | yes
 | modules                | §7            | yes
-| collections            | §8.1, §8.3    |
-| strings                | §8.2          |
-| error_handling         | §9            |
-| generics               | §10           |
-| option                 | §10.1         |
-| traits                 | §10.2         |
-| tests                  | §11.1         |
+| collections            | §8.1, §8.3    | yes
+| strings                | §8.2          | yes
+| error_handling         | §9            | yes
+| generics               | §10           | yes
+| option                 | §10.1         | yes
+| traits                 | §10.2         | yes
+| tests                  | §11.1         | yes
 | standard_library_types | §13.2         |
 | threads                | §16.1         |
 | macros                 | §19.6         |
