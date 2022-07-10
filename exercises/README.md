@@ -17,8 +17,8 @@
 | option                 | §10.1         | yes
 | traits                 | §10.2         | yes
 | tests                  | §11.1         | yes
-| standard_library_types | §13.2         |
-| threads                | §16.1         |
-| macros                 | §19.6         |
-| clippy                 | n/a           |
+| standard_library_types | §13.2         | yes
+| threads                | §16.1         | yes
+| macros                 | §19.6         | yes
+| clippy                 | n/a           | yes
 | conversions            | n/a           |
